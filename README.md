@@ -20,7 +20,6 @@ The dataset used in this project is the "New York City Airbnb Open Data" availab
 
 3. Predictive Modeling:
    - Linear Regression
-   - Decision Tree Regression
    - Random Forest Regression
 
 4. Data Visualization:
